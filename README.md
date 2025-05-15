@@ -6,8 +6,8 @@
 
 ### Proyecto destacado
 
-** Sistema de gestión de pedidos y producción para taller de muebles a medida **  
-Actualmente en desarrollo como parte de la materia Ingeniería de Software.(Proyceto Tesis)  
+** Sistema de gestión de pedidos y producción para taller de muebles a medida  **  
+Actualmente en desarrollo como parte de la materia Ingeniería de Software.(Proyecto Tesis)  
 Este sistema busca informatizar la gestión de un taller, optimizando el flujo de trabajo y ayudando en la toma de decisiones sobre producción, entregas y pedidos.
 
 <!-- Más adelante podés poner el link al repositorio del proyecto cuando esté subido -->
